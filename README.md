@@ -1,1 +1,1 @@
-# E-manage (Employee Management WebApp)
+# E-manage
